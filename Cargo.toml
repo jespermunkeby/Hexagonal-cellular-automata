@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 nannou = "0.13.1"
 modulator = "0.1.0"
+hex2d = "0.2.0"
